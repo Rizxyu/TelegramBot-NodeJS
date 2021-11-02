@@ -1,8 +1,8 @@
 {
-    "apikey": "",
+    "apikey": "HIRO",
     "bot_token": "",
     "owner": "LoL Human",
-    "ownerLink": "https://t.me/LoLHumen",
+    "ownerLink": "",
     "version": "1.1.0",
     "prefix": "/"
 }
